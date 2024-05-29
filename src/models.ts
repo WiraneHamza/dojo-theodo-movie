@@ -11,6 +11,8 @@ export interface Movie {
   poster_path: string;
 }
 
+
+
 export interface Genre {
   id: number;
   name: string;
